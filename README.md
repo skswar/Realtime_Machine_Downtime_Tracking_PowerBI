@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/master/img/banner.png" alt="Intro Logo" width="96%"/>
+<img src="https://github.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/blob/main/img/banner.png" alt="Intro Logo" width="96%"/>
 </div>
 <br/>
 <h3 align="center">Real-Time Dashboard to Track Production Status with focus on Downtime</h3>
@@ -29,30 +29,30 @@ In the following section, the PowerBi report details has been provided with pict
 The following image shows the home page of the PowerBI report. The report includes few production KPIs related to a particular product, the date-range upto what data is available, graphs with focus on downtime such as the individual batches/jobs of run, downtime by operator, % of downtime against total run-time, downtime based on hour of the day/week and also a pivot table to help users cross reference/debug based on transactions made in the ERP system.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/master/img/report_home.PNG" width="80%"/>
+<img src="https://github.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/blob/main/img/report_home.PNG" width="80%"/>
 </p>
 
 In order to help any new users, every visual in the dashboard has been provided with details and also a welcome note has been included using the report-tooltip functionality as shown in the below image.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/master/img/report_welcome_tooltip.PNG" width="40%"/>
-<img src="https://raw.githubusercontent.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/master/img/report_helpicon_tooltips.PNG" width="40%"/>
+<img src="https://github.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/blob/main/img/report_welcome_tooltip.PNG" width="40%"/>
+<img src="https://github.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/blob/main/img/report_helpicon_tooltips.PNG" width="40%"/>
 </p>
 
 Also filters has been provided to dice and slice the data as per user need along with a clear-all button.
 <p align="center">
-<img src="https://raw.githubusercontent.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/master/img/report_filterpanes.PNG" width="40%"/>
+<img src="https://github.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/blob/main/img/report_filterpanes.PNG" width="40%"/>
 </p>
 
 Every visual on the report is connected to each other (although there is a possibility to manage visual interactions but was not required) thus users can click on any of the visual to filter as per necessity. This functionality depicted in the following left-image. As it can be seen, an user clicks on an operator 'SM3' in 'Downtime By Operators' visual and all corresponding data is filtered accordingly thus providing the user with every details related to that operator. Or users can also use the filter-pane to filter information as per requirement. This is depicted in the following right-image where all data related to medium sized product has been filtered.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/master/img/filtered_2.PNG" width="40%"/>
-<img src="https://raw.githubusercontent.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/master/img/filtered_1.PNG" width="40%"/>
+<img src="https://github.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/blob/main/img/filtered_2.PNG" width="40%"/>
+<img src="https://github.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/blob/main/img/filtered_1.PNG" width="40%"/>
 </p>
 
 **Link To Report**: [Downtime_Report.pbix](<https://github.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/blob/main/power_bi_report/Downtime_Report.pbix>)
-
+**Note**: Only will be shared upon verified requests.
 
 ## Conclusion
 PowerBI is a great tool that enables organizations to gain valuable insights based on data gathered through multiple channels/application the orgnaization employs or even through exteral data sources. It serves as a catalyst for data-driven decision-making, leading to improved operational efficiency. In this project I tried to demosntrate the effective steps that can be taken and how data can be harnessed to provide valuable insights into current processes, and thus help in taking informed actions for continuous improvement. 
