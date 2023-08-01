@@ -52,6 +52,7 @@ Every visual on the report is connected to each other (although there is a possi
 </p>
 
 **Link To Report**: [Downtime_Report.pbix](<https://github.com/skswar/Realtime_Machine_Downtime_Tracking_PowerBI/blob/main/power_bi_report/Downtime_Report.pbix>)
+
 **Note**: Only will be shared upon verified requests.
 
 ## Conclusion
